@@ -40,7 +40,7 @@ Designed and implemented a scalable and modular **Hotel Management System** usin
 ---
 
 ## 📘 Education
-- **Bachelor of Technology**  
+- **Bachelor of Technology(Hons)**  
   Government Engineering College, Nowgong | CGPA: 8.44
 
 ---
